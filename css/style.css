@@ -1,0 +1,39 @@
+.container {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Header  */
+
+header {
+    display: flex;
+    max-width: inherit;
+    background-color: #262626;
+    padding: 46px 320px 45px;
+    position:fixed;
+    left: 50%;
+    transform: translateX(-50%);
+
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 68px;
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 706px;
+
+
+}
+
+.act {
+    color: #DCB47A;
+}
+
+.no_act {
+    color: #fff;
+
+}
