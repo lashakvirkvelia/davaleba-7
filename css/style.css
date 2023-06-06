@@ -136,6 +136,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    width: 70%;
 
 
 }
@@ -198,9 +199,8 @@ h2 {
 footer{
     padding: 60px 630px;
     background: #262626;
-    margin: 0 auto;
-   left: 0;
-    width: 1920px;
+   
+    width: 100%;
     display: flex;
     
 
